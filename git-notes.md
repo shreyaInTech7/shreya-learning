@@ -7,3 +7,4 @@ It tracks changes in my code.
 ## What is GitHub?
 GitHub is an online platform.
 It stores and shares Git projects.
+This line is added in practice branch.
